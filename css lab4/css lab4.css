@@ -1,0 +1,78 @@
+body{
+      margin: 100px 100px;
+     border-style: solid;
+      border-color: black;
+      height: 350px;
+      border-width: 20%;
+      font-family: Times New Roman,serif;
+      padding: 50px;
+}
+
+.c1{
+      border: 1px solid;
+}
+
+.c2{
+      font-size: 30px;
+      padding-left: 260px;
+ } 
+
+.c3{
+      padding-left: 280px;          
+}
+
+table{
+      border-collapse: collapse;
+      width: 100%;
+}
+
+table,td,th{
+      border: 1px solid black;
+      text-align: left;
+      font-size: 15px;
+      height: 35px;
+     padding-left: 5px;
+}
+
+ .c4{
+      padding: 10px;
+      padding-left: 545px;
+ }
+
+ .t1{
+      height: 50px;
+      width: 50px;
+      background-color: lightgray;
+      text-align: center;
+      padding: 10px;
+ }
+
+.t2{
+      width: 25px;
+      height: 25px;
+      background: gainsboro;
+      text-align: center;
+      padding: 3px;
+      border-radius: 50%;
+      display: inline-block;
+}
+
+.t3{
+      height: 25px;
+      width: 25px;
+      background-color: dodgerblue;
+      text-align: center;
+      padding: 3px;
+      border-radius: 50%;
+      display: inline-block;
+}
+
+
+
+
+
+ 
+
+      
+     
+  
